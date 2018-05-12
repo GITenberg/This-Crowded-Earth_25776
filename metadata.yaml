@@ -1,0 +1,31 @@
+_repo: This-Crowded-Earth_25776
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Bloch, Robert
+    birthdate: 1917
+    deathdate: 1994
+    gutenberg_agent_id: '31575'
+    url: http://www.gutenberg.org/2009/agents/31575
+    wikipedia: http://en.wikipedia.org/wiki/Robert_Bloch
+description: This Crowded Earth is a taut and compelling story about an all too possible
+  future. Earth is overcrowded and its resources are being taxed to the limit. The
+  government has a desperate plan, but will it work and at what price? By the author
+  of Psycho and Yours Truly, Jack the Ripper.
+gutenberg_bookshelf: Science Fiction
+gutenberg_issued: '2008-06-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25776'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Science fiction, American'
+- !lcc 'PS'
+title: This Crowded Earth
+url: http://www.gutenberg.org/ebooks/25776
